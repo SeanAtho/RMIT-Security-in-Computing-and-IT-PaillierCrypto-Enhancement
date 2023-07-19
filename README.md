@@ -39,5 +39,5 @@ Enter the value of 'r' (as Integer):
 After these inputs are provided, the program will display the decrypted message as output.
 Contributing
 
-Contributions are welcome! Please read the contributing guidelines before getting started.
+Contributions are welcome!
 
